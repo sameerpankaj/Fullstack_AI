@@ -1,0 +1,62 @@
+Here's a structured roadmap of 50 essential AI concepts, progressing from beginner to advanced topics:
+
+Foundations
+Artificial Intelligence
+Machine Learning
+Deep Learning
+Data Science
+Training Data
+Features
+Labels
+Inference
+Model
+Dataset
+Machine Learning Basics
+Supervised Learning
+Unsupervised Learning
+Reinforcement Learning
+Classification
+Regression Analysis
+Clustering
+Overfitting
+Underfitting
+Bias-Variance Tradeoff
+Cross-Validation
+Neural Networks & Deep Learning
+Artificial Neural Network
+Neuron
+Activation Function
+Backpropagation
+Gradient Descent
+Epoch
+Batch Size
+Convolutional Neural Network
+Recurrent Neural Network
+Transformer
+Natural Language Processing & Generative AI
+Natural Language Processing
+Tokenization
+Word Embedding
+Attention Mechanism
+Large Language Model
+Prompt Engineering
+Generative AI
+Fine-Tuning
+Retrieval-Augmented Generation
+Hallucination
+Advanced AI Concepts
+Transfer Learning
+Multimodal AI
+Computer Vision
+Explainable AI
+Federated Learning
+AI Alignment
+Agentic AI
+Vector Database
+Knowledge Graph
+Artificial General Intelligence
+Recommended Learning Order
+
+AI → Machine Learning → Neural Networks → Deep Learning → NLP → Transformers → LLMs → Prompt Engineering → RAG → AI Agents
+
+Since you already know some Python and want to integrate AI into your work, focusing first on concepts 1–20, then 30–40, will give the fastest practical results.
