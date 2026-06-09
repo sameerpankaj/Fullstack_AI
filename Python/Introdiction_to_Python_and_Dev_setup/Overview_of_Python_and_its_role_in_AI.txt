@@ -1,0 +1,22 @@
+Why Python for AI
+Libraries: NumPy, pandas, TensorFlow, PyTorch, and scikit
+
+#Applications for Python in AI
+--Machine Learning
+--Deep Learning
+--Data Science and Analytics
+--Natural Language Processing (NLP)
+--Automation and Scripting
+
+#Installing Python and Setting Up a Coding Environment
+--Installing Python
+--Setting upa Coding Environment
+  Jupyter Notebooks
+  Visual Studio Code
+
+
+#Introduction to Basic Python Syntax, Variables, and Data Types
+--Basic Syntax
+--Variables
+--Data Types
+  Integers, Floats, Strings, Tuples,  Dictioanries, Booleans

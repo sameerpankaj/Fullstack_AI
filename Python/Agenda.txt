@@ -1,0 +1,10 @@
+Week 1
+Day1:Introduction to python and Development setup
+Day 2: Control flow in python
+day 3: Functions and Modules
+Day 4: Data Structures (Lists, Tuples, Dictioanries, Sets)
+Day 5: Working with Strings
+Day 6: File Handling
+Day 7: python code and project Work
+
+
