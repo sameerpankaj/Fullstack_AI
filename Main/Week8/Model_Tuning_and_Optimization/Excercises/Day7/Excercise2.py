@@ -89,7 +89,7 @@ print(f'tunes Model Accuracy: {accuracy_tuned:.4f}')
 print('\n Classfication report (Tuned Model): \n', classification_report(y_test, y_pred_tuned))
 
 #eValuate using cross validation
-cv_scores = cross_val_score(best_mdoel, x, y, cv=5, scoring='accuracy')
+cv_scores = cross_val_score(best_model, x, y, cv=5, scoring='accuracy')
 
 print(f'Cross validation accuracy scores: {cv_scores}')
 print(f'Mean cross validatioan accuracy: {cv_scores.mean():.4f}')
